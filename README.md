@@ -1,7 +1,7 @@
 # Rails Portfolio Webapp
 
-> This is a webapp being developed with Ruby on Rails to serve as a portfolio and blog.
-> Ruby Version 2.4.0
+> This is a webapp being developed with Ruby on Rails to serve as a portfolio and blog. &nbsp;
+> Ruby Version 2.4.0 &nbsp;
 > Rails Version 5.2
 
 ### Features

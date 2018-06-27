@@ -1,6 +1,9 @@
-# Rails Portfolio Application
+# Rails Portfolio Webapp
 
-> This is a Ruby on Rails 5 application that allows users to create their own potfolios
+> This is a webapp being developed with Ruby on Rails to serve as a portfolio and blog. &nbsp;
+
+> - Ruby Version 2.4.0 &nbsp;
+> - Rails Version 5.2
 
 ### Features
 
@@ -9,10 +12,4 @@
 - Portfolio
 - Drag and Drop interface
 
-### Code Example
-
-```ruby
-def my_great_method
-  puts "here it is"
-end
-```
+More to come soon.
